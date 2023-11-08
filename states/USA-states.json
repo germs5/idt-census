@@ -1,306 +1,357 @@
 [
   {
     "state": "Alabama",
+    "abbreviation": "AL",
     "population": 4833722,
     "counties": 67,
     "detail": "http://localhost:nnn/state/Alabama"
   },
   {
     "state": "Alaska",
+    "abbreviation": "AK",
     "population": 735132,
     "counties": 29,
     "detail": "http://localhost:nnn/state/Alaska"
   },
   {
     "state": "Arizona",
+    "abbreviation": "AZ",
     "population": 6626624,
     "counties": 15,
     "detail": "http://localhost:nnn/state/Arizona"
   },
   {
     "state": "Arkansas",
+    "abbreviation": "AR",
     "population": 2959373,
     "counties": 75,
     "detail": "http://localhost:nnn/state/Arkansas"
   },
   {
     "state": "California",
+    "abbreviation": "CA",
     "population": 38332521,
     "counties": 58,
     "detail": "http://localhost:nnn/state/California"
   },
   {
     "state": "Colorado",
+    "abbreviation": "CO",
     "population": 5268367,
     "counties": 64,
     "detail": "http://localhost:nnn/state/Colorado"
   },
   {
     "state": "Connecticut",
+    "abbreviation": "CT",
     "population": 3596080,
     "counties": 8,
     "detail": "http://localhost:nnn/state/Connecticut"
   },
   {
     "state": "Delaware",
+    "abbreviation": "DE",
     "population": 925749,
     "counties": 3,
     "detail": "http://localhost:nnn/state/Delaware"
   },
   {
     "state": "District of Columbia",
+    "abbreviation": "DC",
     "population": 646449,
     "counties": 1,
     "detail": "http://localhost:nnn/state/District+of+Columbia"
   },
   {
     "state": "Florida",
+    "abbreviation": "FL",
     "population": 19552860,
     "counties": 67,
     "detail": "http://localhost:nnn/state/Florida"
   },
   {
     "state": "Georgia",
+    "abbreviation": "GA",
     "population": 9992167,
     "counties": 159,
     "detail": "http://localhost:nnn/state/Georgia"
   },
   {
     "state": "Hawaii",
+    "abbreviation": "HI",
     "population": 1404054,
     "counties": 5,
     "detail": "http://localhost:nnn/state/Hawaii"
   },
   {
     "state": "Idaho",
+    "abbreviation": "ID",
     "population": 1612136,
     "counties": 44,
     "detail": "http://localhost:nnn/state/Idaho"
   },
   {
     "state": "Illinois",
+    "abbreviation": "IL",
     "population": 12882135,
     "counties": 102,
     "detail": "http://localhost:nnn/state/Illinois"
   },
   {
     "state": "Indiana",
+    "abbreviation": "IN",
     "population": 6570902,
     "counties": 92,
     "detail": "http://localhost:nnn/state/Indiana"
   },
   {
     "state": "Iowa",
+    "abbreviation": "IA",
     "population": 3090415,
     "counties": 99,
     "detail": "http://localhost:nnn/state/Iowa"
   },
   {
     "state": "Kansas",
+    "abbreviation": "KS",
     "population": 2893957,
     "counties": 105,
     "detail": "http://localhost:nnn/state/Kansas"
   },
   {
     "state": "Kentucky",
+    "abbreviation": "KY",
     "population": 4395295,
     "counties": 120,
     "detail": "http://localhost:nnn/state/Kentucky"
   },
   {
     "state": "Louisiana",
+    "abbreviation": "LA",
     "population": 4625470,
     "counties": 64,
     "detail": "http://localhost:nnn/state/Louisiana"
   },
   {
     "state": "Maine",
+    "abbreviation": "ME",
     "population": 1328302,
     "counties": 16,
     "detail": "http://localhost:nnn/state/Maine"
   },
   {
     "state": "Maryland",
+    "abbreviation": "MD",
     "population": 5928814,
     "counties": 24,
     "detail": "http://localhost:nnn/state/Maryland"
   },
   {
     "state": "Massachusetts",
+    "abbreviation": "MA",
     "population": 6692824,
     "counties": 14,
     "detail": "http://localhost:nnn/state/Massachusetts"
   },
   {
     "state": "Michigan",
+    "abbreviation": "MI",
     "population": 9895622,
     "counties": 83,
     "detail": "http://localhost:nnn/state/Michigan"
   },
   {
     "state": "Minnesota",
+    "abbreviation": "MN",
     "population": 5420380,
     "counties": 87,
     "detail": "http://localhost:nnn/state/Minnesota"
   },
   {
     "state": "Mississippi",
+    "abbreviation": "MS",
     "population": 2991207,
     "counties": 82,
     "detail": "http://localhost:nnn/state/Mississippi"
   },
   {
     "state": "Missouri",
+    "abbreviation": "MO",
     "population": 6044171,
     "counties": 115,
     "detail": "http://localhost:nnn/state/Missouri"
   },
   {
     "state": "Montana",
+    "abbreviation": "MT",
     "population": 1015165,
     "counties": 56,
     "detail": "http://localhost:nnn/state/Montana"
   },
   {
     "state": "Nebraska",
+    "abbreviation": "NE",
     "population": 1868516,
     "counties": 93,
     "detail": "http://localhost:nnn/state/Nebraska"
   },
   {
     "state": "Nevada",
+    "abbreviation": "NV",
     "population": 2790136,
     "counties": 17,
     "detail": "http://localhost:nnn/state/Nevada"
   },
   {
     "state": "New Hampshire",
+    "abbreviation": "NH",
     "population": 1323459,
     "counties": 10,
     "detail": "http://localhost:nnn/state/New+Hampshire"
   },
   {
     "state": "New Jersey",
+    "abbreviation": "NJ",
     "population": 8899339,
     "counties": 21,
     "detail": "http://localhost:nnn/state/New+Jersey"
   },
   {
     "state": "New Mexico",
+    "abbreviation": "NM",
     "population": 2085287,
     "counties": 33,
     "detail": "http://localhost:nnn/state/New+Mexico"
   },
   {
     "state": "New York",
+    "abbreviation": "NY",
     "population": 19651127,
     "counties": 62,
     "detail": "http://localhost:nnn/state/New+York"
   },
   {
     "state": "North Carolina",
+    "abbreviation": "NC",
     "population": 9848060,
     "counties": 100,
     "detail": "http://localhost:nnn/state/North+Carolina"
   },
   {
     "state": "North Dakota",
+    "abbreviation": "ND",
     "population": 723393,
     "counties": 53,
     "detail": "http://localhost:nnn/state/North+Dakota"
   },
   {
     "state": "Ohio",
+    "abbreviation": "OH",
     "population": 11570808,
     "counties": 88,
     "detail": "http://localhost:nnn/state/Ohio"
   },
   {
     "state": "Oklahoma",
+    "abbreviation": "OK",
     "population": 3850568,
     "counties": 77,
     "detail": "http://localhost:nnn/state/Oklahoma"
   },
   {
     "state": "Oregon",
+    "abbreviation": "OR",
     "population": 3930065,
     "counties": 36,
     "detail": "http://localhost:nnn/state/Oregon"
   },
   {
     "state": "Pennsylvania",
+    "abbreviation": "PA",
     "population": 12773801,
     "counties": 67,
     "detail": "http://localhost:nnn/state/Pennsylvania"
   },
   {
     "state": "Rhode Island",
+    "abbreviation": "RI",
     "population": 1051511,
     "counties": 5,
     "detail": "http://localhost:nnn/state/Rhode+Island"
   },
   {
     "state": "South Carolina",
+    "abbreviation": "SC",
     "population": 4774839,
     "counties": 46,
     "detail": "http://localhost:nnn/state/South+Carolina"
   },
   {
     "state": "South Dakota",
+    "abbreviation": "SD",
     "population": 844877,
     "counties": 66,
     "detail": "http://localhost:nnn/state/South+Dakota"
   },
   {
     "state": "Tennessee",
+    "abbreviation": "TN",
     "population": 6495978,
     "counties": 95,
     "detail": "http://localhost:nnn/state/Tennessee"
   },
   {
     "state": "Texas",
+    "abbreviation": "TX",
     "population": 26448193,
     "counties": 254,
     "detail": "http://localhost:nnn/state/Texas"
   },
   {
     "state": "Utah",
+    "abbreviation": "UT",
     "population": 2900872,
     "counties": 29,
     "detail": "http://localhost:nnn/state/Utah"
   },
   {
     "state": "Vermont",
+    "abbreviation": "VT",
     "population": 626630,
     "counties": 14,
     "detail": "http://localhost:nnn/state/Vermont"
   },
   {
     "state": "Virginia",
+    "abbreviation": "VA",
     "population": 8260405,
     "counties": 134,
     "detail": "http://localhost:nnn/state/Virginia"
   },
   {
     "state": "Washington",
+    "abbreviation": "WA",
     "population": 6971406,
     "counties": 39,
     "detail": "http://localhost:nnn/state/Washington"
   },
   {
     "state": "West Virginia",
+    "abbreviation": "WV",
     "population": 1854304,
     "counties": 55,
     "detail": "http://localhost:nnn/state/West+Virginia"
   },
   {
     "state": "Wisconsin",
+    "abbreviation": "WI",
     "population": 5742713,
     "counties": 72,
     "detail": "http://localhost:nnn/state/Wisconsin"
   },
   {
     "state": "Wyoming",
+    "abbreviation": "WY",
     "population": 582658,
     "counties": 23,
     "detail": "http://localhost:nnn/state/Wyoming"
