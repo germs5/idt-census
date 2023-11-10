@@ -75,7 +75,7 @@ Swagger:
 
 https://swagger.io/
 
-##US States data:
+## US States data:
 
 You can access information on the Census Bureau website, which provides a variety of tools and resources for exploring US population data. Some of the most useful resources for your project include:
 
