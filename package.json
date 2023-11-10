@@ -1,0 +1,23 @@
+{
+  "name": "idt-census",
+  "version": "1.0.0",
+  "description": "Back-end coding competency test involving US states and census data, using node, express, UML, Docker, PostgreSQL.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/germs5/idt-census.git"
+  },
+  "author": "Gershon Kagan",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/germs5/idt-census/issues"
+  },
+  "homepage": "https://github.com/germs5/idt-census#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.11.3"
+  }
+}
