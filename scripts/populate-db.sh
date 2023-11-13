@@ -5,7 +5,7 @@ jq -r '.[] | "INSERT INTO state
   (state_name, state_abbreviation, state_population)
   VALUES ('\''\(.state)'\'', '\''\(.abbreviation)'\'', \(.population))
   ;"' states/USA-states.json |
-  docker exec -i idt-census-postgres psql -U postgres -d idt_census
+  docker exec -i idt-census-postgres-1 psql -U postgres -d idt_census
 
 # Loop through each state file.
 #   Insert that state's county data in one go of separate INSERT lines.
@@ -16,5 +16,5 @@ jq -r '.[] | .state' states/USA-states.json | while read state; do
     (county_name, county_population, state_id)
     VALUES ('\''\(.county)'\'', \(.population), '$counter')
     ;"' states/"$state".json |
-    docker exec -i idt-census-postgres psql -U postgres -d idt_census
+    docker exec -i idt-census-postgres-1 psql -U postgres -d idt_census
 done

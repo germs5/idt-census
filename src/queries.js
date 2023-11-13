@@ -4,7 +4,7 @@ const jwt = require('jsonwebtoken');
 
 const pool = new Pool({
   user: 'postgres',
-  host: 'localhost',
+  host: process.env.POSTGRES_HOST || 'localhost',
   database: 'idt_census',
   password: 'idt-census',
   port: 5432,

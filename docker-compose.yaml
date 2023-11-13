@@ -1,0 +1,31 @@
+version: "3.8"
+services:
+  node:
+    build:
+      context: .
+      dockerfile: node.dockerfile
+    environment:
+      POSTGRES_HOST: postgres
+    ports:
+      - "3000:3000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+ 
+  postgres:
+    build: 
+      context: .
+      dockerfile: postgres.dockerfile
+    environment:
+      POSTGRES_PASSWORD: idt-census
+    restart: always
+    user: postgres
+    expose:
+      - 5432
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready"]
+      interval: 10s
+      timeout: 5s
+      retries: 15
